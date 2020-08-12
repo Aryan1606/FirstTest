@@ -1,2 +1,2 @@
 # FirstTest
-Just random webpage
+A simple HTML, CSS, JavaScript based static webpage
